@@ -49,10 +49,3 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system using 
 
 ---
 
-# Resume Points (Key Highlights)
-- **Developed an LLM-powered Retrieval-Augmented Generation (RAG) system using Groq API.**
-- **Integrated Groq API to enhance text generation with contextual retrieval.**
-- **Implemented an efficient backend architecture for seamless inference.**
-- **Optimized retrieval pipeline to improve query accuracy and relevance.**
-- **Utilized LangChain/FAISS/ChromaDB for knowledge retrieval (if applicable).**
-- **Designed and deployed a scalable solution with a focus on backend efficiency.**
